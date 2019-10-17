@@ -17,6 +17,7 @@ exit = "exit"
 print ("C'est parti ! Affiche un nombre entier positif compris entre 0 et 100")
 
 while nombre_user != nombre_ordi:
+    
     nombre_user = input()
 
     # Affiche la règle du jeu
